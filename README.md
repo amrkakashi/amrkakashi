@@ -6,20 +6,11 @@
 📍 Cairo, Egypt  
 📧 93amr.kakashi@gmail.com  
 📱 +20 1029404662  
-🌐 [amr-ali-mohamed-1jzd.vercel.app](https://amr-ali-mohamed-1jzd.vercel.app/)  
+🌐 [Portfolio](https://amr-ali-mohamed-1jzd.vercel.app/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/amr-ali-mohamed)
 
 
 </div>
-
----
-
-## 🧠 Professional Summary
-
-Passionate **Front-End Engineer** with **3+ years** of experience building scalable web and mobile applications using **React.js**, **Next.js**, and modern UI frameworks.  
-Skilled in **performance optimization**, **clean architecture**, and **delivering high-quality user experiences**.  
-Thrives in fast-paced environments where **creativity meets technical precision**.
-
 
 
 
