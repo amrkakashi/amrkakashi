@@ -9,10 +9,6 @@
 🌐 [amr-ali-mohamed-1jzd.vercel.app](https://amr-ali-mohamed-1jzd.vercel.app/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/amr-ali-mohamed)
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=AmrAliMohamed" alt="Profile views" />  
-<img src="https://user-badge.committers.top/egypt_private/AmrAliMohamed.svg" alt="Top Egyptian Developer" />
 
 </div>
 
@@ -66,15 +62,10 @@ Thrives in fast-paced environments where **creativity meets technical precision*
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmrAliMohamed&show_icons=true&theme=radical&count_private=true" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAliMohamed&layout=compact&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amrkakashi&show_icons=true&theme=radical&count_private=true" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrkakashi&layout=compact&theme=radical" height="165"/>
 </p>
 
 
 
-<div align="center">
 
-### 💡 “Code is art, and every pixel tells a story.”  
-### — Amr Ali Mohamed (Kakashi)
-
-</div>
